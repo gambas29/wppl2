@@ -1,2 +1,3 @@
 # wppl2
-name : Bagas
+name : Bagas Maulana
+faris shafwan
